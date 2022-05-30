@@ -1,0 +1,9 @@
+{
+  "ID": "1",
+  "firstname": "Joe",
+  "surname": "Bloggs",
+  "email": "joe.b@gmail.com"
+}
+
+GET http://example.com 1.1
+Date: Tue, 15 Nov
